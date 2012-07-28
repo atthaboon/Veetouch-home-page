@@ -1,0 +1,42 @@
+/* No radius for Top Menu bar */
+div.navbar-inner {
+	border-radius: 0px;	
+}
+
+/* Well video preview */
+.video-preview {
+    text-align:     center; 
+    padding:        0px;
+}
+
+/*
+--------------------------------------------------
+ icon or image
+-------------------------------------------------- 
+*/
+.bs-icon {
+  float: left;
+  margin: 7px 10px 0 0;
+  opacity: .8;
+}
+.small-bs-icon {
+  float: left;
+  margin: 4px 5px 0 0;
+}
+
+/*
+--------------------------------------------------
+ Footer
+-------------------------------------------------- 
+*/
+.footer {
+  margin-top: 25px;
+  padding: 15px;
+  border-top: 1px solid #e5e5e5;
+  text-align: center;
+  font-size: small;
+}
+.footer p {
+  margin-bottom: 0;
+  color: #555;
+}

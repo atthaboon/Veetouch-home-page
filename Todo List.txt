@@ -1,0 +1,8 @@
+Index
+1.รูป โต๊ะ
+2.  รูป Catalog
+3. รูป POS
+4. LOGO + Name
+5. Slide list
+	- Video
+	- Promotion
